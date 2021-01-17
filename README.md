@@ -9,7 +9,6 @@ A bare bones social media application. This repository uses git-submodules to ke
 ---
 
 ## Technologies Featured
---- 
 ### Frontend
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
