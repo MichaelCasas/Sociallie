@@ -1,0 +1,18 @@
+[submodule "protobufs"]
+	path = protobufs
+	url = https://github.com/MichaelCasas/sociallie-protobufs.git
+[submodule "web"]
+	path = web
+	url = https://github.com/MichaelCasas/sociallie-web.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/MichaelCasas/sociallie-user-service.git
+[submodule "authentication-service"]
+	path = authentication-service
+	url = https://github.com/MichaelCasas/sociallie-authentication-serivce.git
+[submodule "messaging-service"]
+	path = messaging-service
+	url = https://github.com/MichaelCasas/sociallie-messaging-service.git
+[submodule "post-service"]
+	path = post-service
+	url = https://github.com/MichaelCasas/sociallie-post-service.git
