@@ -10,6 +10,3 @@
 [submodule "messaging-service"]
 	path = messaging-service
 	url = https://github.com/MichaelCasas/sociallie-messaging-service.git
-[submodule "post-service"]
-	path = post-service
-	url = https://github.com/MichaelCasas/sociallie-post-service.git
