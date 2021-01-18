@@ -4,6 +4,3 @@
 [submodule "web"]
 	path = web
 	url = https://github.com/MichaelCasas/sociallie-web.git
-[submodule "messaging-service"]
-	path = messaging-service
-	url = https://github.com/MichaelCasas/sociallie-messaging-service.git
