@@ -7,9 +7,6 @@
 [submodule "user-service"]
 	path = user-service
 	url = https://github.com/MichaelCasas/sociallie-user-service.git
-[submodule "authentication-service"]
-	path = authentication-service
-	url = https://github.com/MichaelCasas/sociallie-authentication-serivce.git
 [submodule "messaging-service"]
 	path = messaging-service
 	url = https://github.com/MichaelCasas/sociallie-messaging-service.git
